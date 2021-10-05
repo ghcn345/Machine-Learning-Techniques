@@ -16,10 +16,10 @@
 
 ### Exploratory Data Analysis (EDA)
 
-![graph](images/.png)
+![graph](images/best_fit_model_plot.png)
 
 
-
+![graph](images/cyprus_prediction_plot.png)
 
 
 ## Data Preparation
@@ -27,7 +27,7 @@
 
 
 
-![graph](images/.png)
+
 
 
 
