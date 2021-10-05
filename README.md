@@ -11,18 +11,24 @@
 ## Overview
 
 
-## Data Understanding
-
-
-### Exploratory Data Analysis (EDA)
+### Machine_Learning_Landscape
 
 ![graph](images/best_fit_model_plot.png)
 
-
 ![graph](images/cyprus_prediction_plot.png)
 
+![graph](images/money_happy_scatterplot.png)
 
-## Data Preparation
+![graph](images/overfitting_model_plot.png)
+
+![graph](images/representative_training_data_scatterplot.png)
+
+![graph](images/ridge_model_plot.png)
+
+![graph](images/tweaking_model_params_plot.png)
+
+
+## Classification
 
 
 
@@ -30,8 +36,6 @@
 
 
 
-
-## Modeling
 
 
 
