@@ -35,9 +35,12 @@
 
 ![graph](images/roc_curve_comparison_plot.png)
 
-![graph](images/roc_curve_plot.png)
-![graph](images/precision_vs_recall_plot.png)
 ![graph](images/precision_recall_vs_threshold_plot.png)
+
+![graph](images/precision_vs_recall_plot.png)
+
+![graph](images/roc_curve_plot.png)
+
 
 
 ## For More Information
